@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2784
     wikipedia: http://en.wikipedia.org/wiki/Arlo_Bates
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41189#A-Book-o-Nine-Tales.
 gutenberg_issued: '2012-10-26'
 gutenberg_type: Text
 identifiers:
