@@ -1,0 +1,33 @@
+_repo: A-Book-o-Nine-Tales._41189
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41189-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Bates, Arlo
+    birthdate: 1850
+    deathdate: 1918
+    gutenberg_agent_id: '2784'
+    url: http://www.gutenberg.org/2009/agents/2784
+    wikipedia: http://en.wikipedia.org/wiki/Arlo_Bates
+description: ''
+gutenberg_issued: '2012-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41189'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- !lcsh 'Short stories, American'
+tableOfContents: A strange idyl -- An episode in mask -- The tuberose -- An evening
+  at whist -- Saucy Betty Mork -- Mrs. Fruffles is at home -- John Vantine -- The
+  radiator -- Mère Marchette -- "Such sweet sorrow" -- Barum West's extravaganza --
+  A business meeting -- A sketch in umber -- Thirteen -- April's lady -- A Cuban morning
+  -- Delia Grimwet.
+title: A Book o' Nine Tales.
+url: http://www.gutenberg.org/ebooks/41189
